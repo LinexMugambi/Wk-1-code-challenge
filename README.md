@@ -6,3 +6,8 @@ This software accepts a speed input and, depending on how fast it is, either pro
 
 To ensure that the return value for demerit points is always an integer, I implemented a bracket system for demerit points in the Speed Detector application. As an illustration, a speed input of 71 should return 0.2 demerit points, whereas a speed input of 74 should return 0.8, but both return 1.
 # Net Salary Calculator
+This program takes an input of the basic salary as well as benefits and returns the net salary after decucting payments for NSSF, NHIF and PAYE. It also factors in personal relief
+## Author
+Linex Mugambi
+## Licence
+ Open source license
