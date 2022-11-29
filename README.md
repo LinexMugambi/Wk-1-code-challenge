@@ -10,23 +10,22 @@ To ensure that the return value for demerit points is always an integer, I imple
 # Net Salary Calculator
 This program takes an input of the basic salary as well as benefits and returns the net salary after decucting payments for NSSF, NHIF and PAYE. It also factors in personal relief
 
-Description
+# Description
 
 This is a Week 1 code challenge
 
-Getting Started
+# Installation
 
-Installation
+Using this repo on your machine requires some simple steps
 
-To use this repo on your machine requires some simple steps
-Alternative One
+# Alternative One
 
     Open a terminal / command line interface on your computer
 
     Clone the repo by using the following:
 
-      git clone git@github.com:LinexMugambi/Wk-1-code-challenge.git
-
+      git clone https://github.com:LinexMugambi/Wk-1-code-challenge.git
+      
     Be patient as it creates a copy on your local machine for you.
 
     Change directory to the repo folder:
@@ -39,7 +38,7 @@ Alternative One
 
     (Another Option) Open it in any editor of your choice.
 
-Alternative Two
+# Alternative Two
 
     On the top right corner of this page there is a button labelled Fork.
 
@@ -49,11 +48,11 @@ Alternative Two
 
     Remember to replace your username when cloning.
 
-      git clone https://github.com/your-username-here/l1-js-dom.git
+      git clone https://github.com/your-username-here/Wk-1-code-challenge.git
 
-Running the application
+# Running the application
 
-Running the application is very straight forward. You can use the following steps to run the app.
+Running the application is as straight forward as it can get. Use the following steps to run the app.
 
     Install required dependencies from npm
 
